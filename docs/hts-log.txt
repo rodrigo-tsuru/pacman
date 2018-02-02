@@ -1,0 +1,11 @@
+HTTrack3.48-21 launched on Fri, 02 Feb 2018 10:39:32 at https://inst.eecs.berkeley.edu/~cs188/fa10/projects/search/search.html
+(winhttrack https://inst.eecs.berkeley.edu/~cs188/fa10/projects/search/search.html -O "/home/tsuru/websites/pacman-doc" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.48-21 mirror complete in 12 seconds : 35 links scanned, 34 files written (949396 bytes overall) [372037 bytes received at 31003 bytes/sec], 650703 bytes transferred using HTTP compression in 15 files, ratio 9%, 17.5 requests per connection
+(No errors, 0 warnings, 0 messages)
